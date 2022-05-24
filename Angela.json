@@ -65,15 +65,15 @@
     {
       "id":1,
       "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
+      "image_url":"https://aimmo.floormatreviews.net/call_from_angela/1.png",
+      "video_url":"https://aimmo.floormatreviews.net/call_from_angela/angela.mp4",
       "voice_url":"dosa_membawa_keburukan.mp3"
     },
     {
       "id":2,
       "name":"Homescapes",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
+      "image_url":"https://aimmo.floormatreviews.net/call_from_angela/2.png",
+      "video_url":"https://aimmo.floormatreviews.net/call_from_angela/angela.mp4",
       "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
     },
     {
