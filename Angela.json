@@ -66,14 +66,14 @@
       "id":1,
       "name":"Angela 1",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/1.png",
-      "video_url":"https://immo.floormatreviews.net/call_from_angela/angela.mp4",
+      "video_url":"https://immo.floormatreviews.net/call_from_angela/ang.mov",
       "voice_url":"dosa_membawa_keburukan.mp3"
     },
     {
       "id":2,
       "name":"Angela2",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/2.png",
-      "video_url":"https://immo.floormatreviews.net/call_from_angela/angela.mp4",
+      "video_url":"https://immo.floormatreviews.net/call_from_angela/ang.mov",
       "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
     }
   
