@@ -64,46 +64,19 @@
   [
     {
       "id":1,
-      "name":"Ludo King",
+      "name":"Angela 1",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/1.png",
       "video_url":"https://immo.floormatreviews.net/call_from_angela/angela.mp4",
       "voice_url":"dosa_membawa_keburukan.mp3"
     },
     {
       "id":2,
-      "name":"Homescapes",
+      "name":"Angela2",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/2.png",
       "video_url":"https://immo.floormatreviews.net/call_from_angela/angela.mp4",
       "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":3,
-      "name":"Minecraft",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":4,
-      "name":"Sonic the Hedgehog™ Classic",
-      "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":5,
-      "name":"War Machines: Best Free Online War & Military Game",
-      "image_url":"file:///android_asset/machine.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":6,
-      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"dosa_membawa_keburukan.mp3"
     }
+  
   ]
 
 }
