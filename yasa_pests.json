@@ -66,21 +66,21 @@
       "id":1,
       "name":"yasa_pests..",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/1.1.webp",
-      "video_url":"roxana",
+      "video_url":"pet",
       "voice_url":"caller_voice.mp3"
     },
     {
       "id":2,
       "name":"yasa_pests.",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/1.2.webp",
-      "video_url":"roxana",
+      "video_url":"pet",
       "voice_url":"caller_voice.mp3"
        },
       {
       "id":2,
       "name":"yasa_pests",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/1.3.webp",
-      "video_url":"roxana",
+      "video_url":"pet",
       "voice_url":"caller_voice.mp3"
     }
   
