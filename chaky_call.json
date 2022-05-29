@@ -60,50 +60,30 @@
       "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
     }
   ],
-  "Item":
+ "Item":
   [
     {
       "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "name":"chaky_call",
+      "image_url":"https://immo.floormatreviews.net/call_from_angela/2.1.webp",
+      "video_url":"baby",
+      "voice_url":"chucky_momo_videocall.mp3"
     },
     {
       "id":2,
-      "name":"Homescapes",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":3,
-      "name":"Minecraft",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":4,
-      "name":"Sonic the Hedgehog™ Classic",
-      "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
-    },
-    {
-      "id":5,
-      "name":"War Machines: Best Free Online War & Military Game",
-      "image_url":"file:///android_asset/machine.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
-    },
-    {
-      "id":6,
-      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "name":"chaky_call",
+      "image_url":"https://immo.floormatreviews.net/call_from_angela/2.2.webp",
+      "video_url":"baby",
+      "voice_url":"chucky_momo_videocall.mp3"
+       },
+      {
+      "id":2,
+      "name":"chaky_call",
+      "image_url":"https://immo.floormatreviews.net/call_from_angela/2.3.webp",
+      "video_url":"chucky_momo_videocall",
+      "voice_url":"chucky_momo_videocall.mp3"
     }
+  
   ]
 
 }
