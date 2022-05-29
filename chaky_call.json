@@ -66,14 +66,14 @@
       "id":1,
       "name":"chaky_call",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/2.1.webp",
-      "video_url":"baby",
+      "video_url":"chaky",
       "voice_url":"chucky_momo_videocall.mp3"
     },
     {
       "id":2,
       "name":"chaky_call",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/2.2.webp",
-      "video_url":"baby",
+      "video_url":"chaky",
       "voice_url":"chucky_momo_videocall.mp3"
        },
       {
@@ -81,7 +81,7 @@
       "name":"chaky_call",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/2.3.webp",
       "video_url":"chucky_momo_videocall",
-      "voice_url":"chucky_momo_videocall.mp3"
+      "voice_url":"chucky_momo_voice.mp3"
     }
   
   ]
