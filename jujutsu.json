@@ -64,21 +64,21 @@
   [
     {
       "id":1,
-      "name":"chaky_call",
+      "name":"jujutsu",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/3.1.webp",
       "video_url":"baby",
       "voice_url":"chucky_momo_videocall.mp3"
     },
     {
       "id":2,
-      "name":"chaky_call",
+      "name":"jujutsu",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/3.2.webp",
       "video_url":"baby",
       "voice_url":"chucky_momo_videocall.mp3"
        },
       {
       "id":2,
-      "name":"chaky_call",
+      "name":"jujutsu",
       "image_url":"https://immo.floormatreviews.net/call_from_angela/3.3.webp",
       "video_url":"chucky_momo_videocall",
       "voice_url":"chucky_momo_videocall.mp3"
